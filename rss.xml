@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Dé maat in ondernemen]]></title>
         <description><![CDATA[Dé maat in ondernemen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/agile-partners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 09:40:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 09:41:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/agile-partners/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/agile-partners/99e32b5e-c7cc-4041-b5ed-0b5148ffb08c/index.html</link>
+            <guid isPermaLink="false">99e32b5e-c7cc-4041-b5ed-0b5148ffb08c</guid>
+            <pubDate>Tue, 05 Apr 2016 09:41:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abc09e48-b36a-4223-87ab-dc213c45e5f9.png">]]></description>
-            <link>undefinedfddcd8f0-c2ce-41d2-bcb7-9af5d0267650/index.html</link>
+            <link>https://thegrid.ai/agile-partners/fddcd8f0-c2ce-41d2-bcb7-9af5d0267650/index.html</link>
             <guid isPermaLink="false">fddcd8f0-c2ce-41d2-bcb7-9af5d0267650</guid>
             <pubDate>Tue, 05 Apr 2016 09:38:59 GMT</pubDate>
         </item>
